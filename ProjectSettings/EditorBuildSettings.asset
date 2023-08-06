@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/First.unity
+    guid: dad0dc0f9d8fa2c4c985c8d5d7cecac6
+  - enabled: 1
+    path: Assets/Scenes/OverAndMovement.unity
+    guid: b1d5a60875ce4ba48a4958a2b8c6a1dc
+  - enabled: 1
+    path: Assets/Scenes/Under.unity
+    guid: 812f0374511b8014a9650c6f8e2e6bab
+  - enabled: 1
+    path: Assets/Scenes/Underandmove.unity
+    guid: f1c4ace19f3a19943aac427318bf82dd
+  - enabled: 1
+    path: Assets/Scenes/UnderAndOscilllator.unity
+    guid: b692aac2474dad146abcefa5d03feaa1
+  - enabled: 1
+    path: Assets/Scenes/MultiStorey.unity
+    guid: 50492f5498f3e6e4398688d85ef2f001
+  - enabled: 1
+    path: Assets/Scenes/over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
